@@ -21,4 +21,4 @@ I am currently a student at Stonehill College studying environmental science, re
 
 In the future, I hope to further my education and get my masters degree, explore new research opportunities with focuses beyond plants, and find a job that involves data analytics in combination with environmental science and/or religious studies. 
 
-For examples of my work, please visit my portfolio repository (github.com/avarholak/portfolio). This repository includes code written for homework assignments for an R for Biologists class I am taking (such as Varholak_week4), as well as a function tutorial for three different R functions (Varholak_function_tutorial). 
+For examples of my work, please visit my [portfolio repository](https://github.com/avarholak/portfolio). This repository includes code written for homework assignments for an R for Biologists class I am taking (such as Varholak_week4), as well as a function tutorial for three different R functions (Varholak_function_tutorial). 

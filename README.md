@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student at Stonehill College studying environmental science, religious studies, and data analytics. I am interested in using data analytics to clean, organize, and present data collected in the field. I am currently working on a research project focused on polinator mediated plasticity. 
+I am currently a student at Stonehill College studying environmental science, religious studies, and data analytics. I am interested in using data analytics to clean, organize, and present data collected in the field. I am currently working on a research project focused on polinator mediated plasticity in floral traits.
 
-In the future, I hope to further my education and get my masters degree, explore new research opportunities with focuses beyond plants, and find a job that involves data analytics in combination with environmental science and/or religious studies. 
+In the future, I hope to further my education and get my masters degree, explore new research opportunities in biology and environmental science, and find a job that involves data analytics in combination with environmental science and/or religious studies. 
 
-For examples of my work, please visit my [portfolio repository](https://github.com/avarholak/portfolio). This repository includes code written for homework assignments for an R for Biologists class I am taking (such as Varholak_week4), as well as a function tutorial for three different R functions (Varholak_function_tutorial). 
+For examples of my work, please visit my [portfolio repository](https://github.com/avarholak/portfolio). This repository includes code written for homework assignments for Bio316 (R for Biologists) such as Varholak_week4, as well as a function tutorial for three different R functions (Varholak_function_tutorial). 

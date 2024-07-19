@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student at Stonehill College studying environmental science, religious studies, and data analytics. I am interested in using data science practices to clean, organize, and present data collected in the field. I am currently working on a research project focused on polinator mediated plasticity in floral traits.
+I am currently a student at Stonehill College studying environmental science, religious studies, and data analytics. I am interested in using data science practices to clean, organize, and present data collected in the field. I am currently working on a research project focused on pollinator mediated plasticity in floral traits.
 
 In the future, I hope to further my education and get my masters degree, explore new research opportunities in biology and environmental science, and find a job that involves data analytics in combination with environmental science and/or religious studies. 
 
